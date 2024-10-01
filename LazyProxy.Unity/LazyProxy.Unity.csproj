@@ -16,6 +16,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="LazyProxy" Version="1.0.2" />
-    <PackageReference Include="Unity.Container" Version="5.10.2" />
+    <PackageReference Include="Unity.Container" Version="5.11.11" />
   </ItemGroup>
 </Project>

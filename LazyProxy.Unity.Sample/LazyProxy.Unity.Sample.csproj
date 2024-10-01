@@ -5,7 +5,7 @@
     <LangVersion>8</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Unity.Container" Version="5.10.2" />
+    <PackageReference Include="Unity.Container" Version="5.11.11" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LazyProxy.Unity\LazyProxy.Unity.csproj" />
